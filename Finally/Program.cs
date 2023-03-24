@@ -10,7 +10,7 @@ namespace Finally
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 1");
+            Console.WriteLine("Version 2");
         }
     }
 }
